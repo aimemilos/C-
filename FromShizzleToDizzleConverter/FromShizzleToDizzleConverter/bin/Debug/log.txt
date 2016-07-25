@@ -1,0 +1,41 @@
+﻿<LogInfo><Time>19. 4. 2015 10:54:49</Time><Activity>Converting</Activity><Filename>C:\Users\Milos\Desktop\Nová složka\assassin.Jpeg</Filename></LogInfo>
+<LogInfo><Time>19. 4. 2015 10:56:31</Time><Activity>Converting</Activity><Filename>C:\Users\Milos\Desktop\Nová složka\assassin.Tiff</Filename></LogInfo>
+<LogInfo><Time>19. 4. 2015 10:56:33</Time><Activity>Converting</Activity><Filename>C:\Users\Milos\Desktop\Nová složka\bm.Gif</Filename></LogInfo>
+<LogInfo><Time>19. 4. 2015 11:13:49</Time><Activity>Converting</Activity><Filename>C:\Users\Milos\Desktop\Nová složka\bm.Tiff</Filename></LogInfo>
+<LogInfo><Time>5. 5. 2015 16:32:27</Time><Activity>Converting</Activity><Filename>C:\Users\Milos\Desktop\Nová složka\assassin.Tiff</Filename></LogInfo>
+<LogInfo><Time>23. 5. 2015 12:02:06</Time><Activity>Resizing</Activity><Filename>C:\Users\Milos\Desktop\Nová složka\bm.Gif</Filename></LogInfo>
+<LogInfo><Time>23. 5. 2015 12:02:08</Time><Activity>Resizing</Activity><Filename>C:\Users\Milos\Desktop\Nová složka\bm.Jpeg</Filename></LogInfo>
+<LogInfo><Time>23. 5. 2015 12:04:03</Time><Activity>Converting</Activity><Filename>C:\Users\Milos\Desktop\Nová složka\bm.Gif</Filename></LogInfo>
+<LogInfo><Time>23. 5. 2015 12:04:18</Time><Activity>Converting</Activity><Filename>C:\Users\Milos\Desktop\Nová složka\bm.Gif</Filename></LogInfo>
+<LogInfo><Time>23. 5. 2015 12:04:37</Time><Activity>Converting</Activity><Filename>C:\Users\Milos\Desktop\Nová složka\bm.Gif</Filename></LogInfo>
+<LogInfo><Time>23. 5. 2015 12:04:46</Time><Activity>Converting</Activity><Filename>C:\Users\Milos\Desktop\Nová složka\bm.Gif</Filename></LogInfo>
+<LogInfo><Time>23. 5. 2015 12:09:11</Time><Activity>Resizing</Activity><Filename>C:\Users\Milos\Desktop\Nová složka\bm.Png</Filename></LogInfo>
+<LogInfo><Time>23. 5. 2015 12:09:34</Time><Activity>Resizing</Activity><Filename>C:\Users\Milos\Desktop\Nová složka\bm.Png</Filename></LogInfo>
+<LogInfo><Time>23. 5. 2015 12:09:47</Time><Activity>Converting</Activity><Filename>C:\Users\Milos\Desktop\Nová složka\bm.Png</Filename></LogInfo>
+<LogInfo><Time>23. 5. 2015 12:10:10</Time><Activity>Resizing</Activity><Filename>C:\Users\Milos\Desktop\Nová složka\bm.Png</Filename></LogInfo>
+<LogInfo><Time>23. 5. 2015 12:10:32</Time><Activity>Converting</Activity><Filename>C:\Users\Milos\Desktop\Nová složka\bm.Png</Filename></LogInfo>
+<LogInfo><Time>23. 5. 2015 12:10:43</Time><Activity>Converting</Activity><Filename>C:\Users\Milos\Desktop\Nová složka\bm.Png</Filename></LogInfo>
+<LogInfo><Time>23. 5. 2015 12:11:47</Time><Activity>Converting</Activity><Filename>C:\Users\Milos\Desktop\Nová složka\bm.jpg</Filename></LogInfo>
+<LogInfo><Time>23. 5. 2015 12:11:50</Time><Activity>Converting</Activity><Filename>C:\Users\Milos\Desktop\Nová složka\bm.jpg</Filename></LogInfo>
+<LogInfo><Time>23. 5. 2015 12:11:53</Time><Activity>Converting</Activity><Filename>C:\Users\Milos\Desktop\Nová složka\bm.jpg</Filename></LogInfo>
+<LogInfo><Time>23. 5. 2015 12:11:56</Time><Activity>Converting</Activity><Filename>C:\Users\Milos\Desktop\Nová složka\bm.jpg</Filename></LogInfo>
+<LogInfo>
+  <Time>23. 5. 2015 12:22:01</Time>
+  <Activity>Resizing</Activity>
+  <Filename>C:\Users\Milos\Desktop\Nová složka\bm.Bmp</Filename>
+</LogInfo>
+<LogInfo>
+  <Time>23. 5. 2015 12:22:09</Time>
+  <Activity>Resizing</Activity>
+  <Filename>C:\Users\Milos\Desktop\Nová složka\bm.Bmp</Filename>
+</LogInfo>
+<LogInfo>
+  <Time>23. 5. 2015 12:22:17</Time>
+  <Activity>Resizing</Activity>
+  <Filename>C:\Users\Milos\Desktop\Nová složka\bm.Bmp</Filename>
+</LogInfo>
+<LogInfo>
+  <Time>23. 5. 2015 12:22:19</Time>
+  <Activity>Converting</Activity>
+  <Filename>C:\Users\Milos\Desktop\Nová složka\bm.Bmp</Filename>
+</LogInfo>
